@@ -1,4 +1,6 @@
-# Reading 02 - 
+# Reading 02 - State and Props
+
+## Things I want to know more about
 
 React Lifecycle
 1. Based on the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?
