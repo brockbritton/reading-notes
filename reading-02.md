@@ -1,3 +1,7 @@
+layout: page
+title: "State and Props"
+permalink: /301/02
+
 # Reading 02 - State and Props
 
 ## Things I want to know more about
