@@ -1,11 +1,11 @@
-#Reading 01 - Introduction to React and Components
+# Reading 01 - Introduction to React and Components
 
 Components and Props are super important for React as they are the base for data and visual display.
 
 ## Things I want to know more about
 
 
-Components
+### Components
 1. What is a “component”?
   - A reusable piece of code
 2. What are the characteristics of a component?
@@ -25,8 +25,7 @@ Components
   - independent
 
 
-Props
-
+### Props
 1. What is “props” short for?
   - properties
 2. How are props used in React?
