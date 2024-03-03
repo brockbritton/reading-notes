@@ -6,9 +6,15 @@ This website is a place for my reading notes, during classes taken at **Code Fel
 
 ## Code 301 - Intermediate Software Development
 
-### [Reading 01 - Introduction to React and Components](./reading-01.md) 
+### [Reading Class 01 - Introduction to React and Components](./reading-01.md) 
 
-### Reading 02 - State and Props
+### Reading Class 02 - State and Props
+
+### Reading Class 03
+
+### Reading Class 04
+
+### Reading Class 05
 
 
 
