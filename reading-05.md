@@ -24,6 +24,9 @@
   
 
 ### High Order Functions
-What is a “higher-order function”?
-Explore the greaterThan function as defined in the reading. In your own words, what is line 2 of this function doing?
-Explain how either map or reduce operates, with regards to higher-order functions.
+1. What is a “higher-order function”?
+  - functions that operate on other functions   
+2. Explore the greaterThan function as defined in the reading. In your own words, what is line 2 of this function doing?
+  - it is returning a boolean, if m is greater than n (presumably numbers)
+3. Explain how either map or reduce operates, with regards to higher-order functions.
+  - map uses foreach under the hood making it a higher order function
