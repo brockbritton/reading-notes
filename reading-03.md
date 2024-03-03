@@ -1,5 +1,5 @@
 
-# Reading 02 - Passing Functions as Props
+# Reading 03 - Passing Functions as Props
 
 ## Things I want to know more about
 - what other built-in hooks are there than useState? Are they commonly used?
