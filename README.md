@@ -8,14 +8,15 @@ This website is a place for my reading notes, during classes taken at **Code Fel
 
 ### [Reading Class 01 - Introduction to React and Components](./reading-01.md) 
 
-### Reading Class 02 - State and Props
+### [Reading Class 02 - State and Props](./reading-02.md) 
 
-### Reading Class 03
+### [Reading Class 03](./reading-03.md) 
 
-### Reading Class 04
+### [Reading Class 04](./reading-04.md) 
 
-### Reading Class 05
+### [Reading Class 05](./reading-05.md) 
 
+### [Reading Class 06](./reading-06.md) 
 
 
 
