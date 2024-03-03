@@ -4,13 +4,20 @@
 
 React Lifecycle
 1. Based on the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?
+   - render
 2. What is the very first thing to happen in the lifecycle of React?
+   - a construtor is used to build a componenet
 3. Put the following things in the order that they happen:
-   - componentDidMount, render, constructor, componentWillUnmount, React Updates
-5. What does componentDidMount do?
+   - constructor, render, componentDidMount, React Updates, componentWillUnmount
+4. What does componentDidMount do?
+   - once a component is inserted into the tree
 
 React State vs Props
 1. What types of things can you pass in the props?
+   - any javascript value
 2. What is the big difference between props and state?
+   - state is managed within a component while props are passed from a parent
 3. When do we re-render our application?
-4. hat are some examples of things that we could store in state?
+   - when state is updated
+4. What are some examples of things that we could store in state?
+   - any javascript value
