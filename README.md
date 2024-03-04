@@ -10,13 +10,13 @@ This website is a place for my reading notes, during classes taken at **Code Fel
 
 ### [Reading Class 02 - State and Props](./reading-02.md) 
 
-### [Reading Class 03](./reading-03.md) 
+### [Reading Class 03 - Passing Functions as Props](./reading-03.md) 
 
 ### [Reading Class 04](./reading-04.md) 
 
-### [Reading Class 05](./reading-05.md) 
+### [Reading Class 05 - Putting it all Together](./reading-05.md) 
 
-### [Reading Class 06](./reading-06.md) 
+### [Reading Class 06 - REST](./reading-06.md) 
 
 
 
