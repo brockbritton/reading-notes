@@ -12,7 +12,7 @@ This website is a place for my reading notes, during classes taken at **Code Fel
 
 ### [Reading Class 03 - Passing Functions as Props](./reading-03.md) 
 
-### [Reading Class 04](./reading-04.md) 
+### [Reading Class 04 - React and Forms](./reading-04.md) 
 
 ### [Reading Class 05 - Putting it all Together](./reading-05.md) 
 
