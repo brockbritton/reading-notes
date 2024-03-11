@@ -24,3 +24,5 @@ This website is a place for my reading notes, during classes taken at **Code Fel
 
 ### [Reading Class 10 - In Memory Storage](./reading-10.md)
 
+### [Reading Class 11 - MongoDB and Mongoose](./reading-11.md)
+
