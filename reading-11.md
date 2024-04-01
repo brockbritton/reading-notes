@@ -1,6 +1,6 @@
 
 
-# Reading 10 - In Memory Storage
+# Reading 11 - MongoDB and Mongoose
 
 ## Things I want to know more about
 
@@ -25,12 +25,19 @@
 - NoSQL databases
 
 ### sql vs nosql (video)
-What does SQL stand for?
-What is a relational database?
-What type of structure does a relational database work with?
-What is a ‘schema’?
-What is a NoSQL database?
-How does it work?
-What is inside of a MongoDB database?
-Which is more flexible - SQL or MongoDB? and why.
-What is the disadvantage of a NoSQL database?
+1. What does SQL stand for?
+- Structured Query Language
+2. What is a relational database?
+- a type of database that has data that relates to other data point
+3. What type of structure does a relational database work with?
+- tables
+4. What is a ‘schema’?
+- the logical and visual configuration of the entire relational database
+5. What is a NoSQL database? How does it work?
+-  they use a non-tabular format to store data rather than in rule-based, relational tables. NoSQL databases use a flexible schema model that supports a wide variety of unstructured data
+6. What is inside of a MongoDB database?
+- unstructured JSON data
+7. Which is more flexible - SQL or MongoDB? and why.
+- MongoDB (NoSQL) is more flexible because of its schema and lack of relationships between data
+8. What is the disadvantage of a NoSQL database?
+- lack of standardization, lack of ACID: Atomicity, Consistency, Isolation, and Durability
